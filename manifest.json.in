@@ -1,0 +1,17 @@
+{
+    "name": "testubuntucolor.liu-xiao-guo",
+    "description": "description of testubuntucolor",
+    "architecture": "@CLICK_ARCH@",
+    "title": "testubuntucolor",
+    "hooks": {
+        "testubuntucolor": {
+            "apparmor": "testubuntucolor/testubuntucolor.apparmor",
+            "desktop":  "testubuntucolor/testubuntucolor.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

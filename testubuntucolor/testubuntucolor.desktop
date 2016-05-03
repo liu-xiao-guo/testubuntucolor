@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=testubuntucolor
+Exec=testubuntucolor
+Icon=testubuntucolor/testubuntucolor.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
